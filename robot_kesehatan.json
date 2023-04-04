@@ -1,0 +1,118 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "hy",
+        "pagi",
+        "morning",
+        "siang",
+        "afternoon",
+        "sore",
+        "malam",
+        "bro",
+        "sis",
+        "kawan"
+      ],
+      "responses": [
+        "Hai! Dokbot di sini. Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!",
+        "Halo! Saya Dokbot, salam kenal ya! Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!"
+      ]
+    },
+    {
+      "tag": "diagnosis_rabies",
+      "patterns": [
+        "aku tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Rabies"
+      ]
+    },
+    {
+      "tag": "tentang_rabies",
+      "patterns": [
+        "apa itu rabies?"
+      ],
+      "responses": [
+        "Rabies adalah infeksi virus pada otak dan sistem saraf. Virus penyebab rabies umumnya menular ke manusia melalui gigitan hewan. Jika tidak cepat ditangani, rabies dapat menyebabkan kematian. Hewan utama penular rabies adalah anjing. Selain anjing, hewan yang juga dapat membawa virus rabies dan menularkannya ke manusia adalah kelelawar, kucing, dan kera. Virus rabies bisa menular melalui air liur, gigitan, atau cakaran hewan yang tertular rabies. Hewan yang berisiko tinggi untuk menularkan rabies umumnya adalah hewan liar atau hewan peliharaan yang tidak mendapatkan vaksin rabies."
+      ]
+    },
+    {
+      "tag": "tindakan_rabies",
+      "patterns": [
+        "pertolongan pertama rabies"
+      ],
+      "responses": [
+        "Lakukan pemeriksaan ke dokter jika mengalami gejala rabies, terutama setelah digigit atau dicakar hewan yang bisa membawa virus rabies. Pertolongan medis di IGD perlu segera dilakukan jika tergigit atau tercakar hewan, terutama di kepala atau leher."
+      ]
+    },
+    {
+      "tag": "diagnosis_DBD",
+      "patterns": [
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit DBD"
+      ]
+    },
+    {
+      "tag": "tentang_DBD",
+      "patterns": [
+        "apa itu DBD?"
+      ],
+      "responses": [
+        "DBD atau demam berdarah adalah penyakit akibat virus Dengue yang menular melalui gigitan nyamuk. Penyakit ini menimbulkan gejala demam tinggi, sakit kepala, serta nyeri tulang dan otot. Jika tidak ditangani dengan tepat, demam berdarah berisiko mengancam nyawa. Virus Dengue disebarkan oleh nyamuk jenis Aedes aegypti dan Aedes albopictus, yang biasanya aktif dan menggigit pada pagi dan sore hari. Nyamuk ini hidup di genangan air yang tenang dan dasarnya bersih, seperti genangan air di ban mobil, sampah plastik, atau tempat minum hewan."
+      ]
+    },
+    {
+      "tag": "tindakan_DBD",
+      "patterns": [
+        "pertolongan pertama DBD"
+      ],
+      "responses": [
+        "Lakukan pemeriksaan ke dokter jika mengalami gejala DBD. Penanganan medis di IGD perlu segera dilakukan pada penderita DBD jika penderita mengalami mimisan dan gusi berdarah muntah berdarah buang air besar berwarna hitam atau berdarah"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Dengan senang hati :)",
+        "Sama-sama yaa"
+      ]
+    }
+  ]
+}
