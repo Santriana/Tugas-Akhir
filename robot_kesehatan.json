@@ -36,7 +36,9 @@
     {
       "tag": "tentang_rabies",
       "patterns": [
-        "apa itu rabies?"
+        "apa itu rabies?",
+        "jelaskan tentang rabies",
+        "beritahu aku tentang rabies"
       ],
       "responses": [
         "Rabies adalah infeksi virus pada otak dan sistem saraf. Virus penyebab rabies umumnya menular ke manusia melalui gigitan hewan. Jika tidak cepat ditangani, rabies dapat menyebabkan kematian. Hewan utama penular rabies adalah anjing. Selain anjing, hewan yang juga dapat membawa virus rabies dan menularkannya ke manusia adalah kelelawar, kucing, dan kera. Virus rabies bisa menular melalui air liur, gigitan, atau cakaran hewan yang tertular rabies. Hewan yang berisiko tinggi untuk menularkan rabies umumnya adalah hewan liar atau hewan peliharaan yang tidak mendapatkan vaksin rabies."
@@ -45,7 +47,9 @@
     {
       "tag": "tindakan_rabies",
       "patterns": [
-        "pertolongan pertama rabies"
+        "pertolongan pertama rabies",
+        "apa yang harus dilakukan saat terkena rabies?",
+        "aku terkena rabies harus ngapain nih"
       ],
       "responses": [
         "Lakukan pemeriksaan ke dokter jika mengalami gejala rabies, terutama setelah digigit atau dicakar hewan yang bisa membawa virus rabies. Pertolongan medis di IGD perlu segera dilakukan jika tergigit atau tercakar hewan, terutama di kepala atau leher."
@@ -63,7 +67,9 @@
     {
       "tag": "tentang_DBD",
       "patterns": [
-        "apa itu DBD?"
+        "apa itu DBD?",
+        "jelaskan tentang DBD",
+        "beritahu aku tentang DBD"
       ],
       "responses": [
         "DBD atau demam berdarah adalah penyakit akibat virus Dengue yang menular melalui gigitan nyamuk. Penyakit ini menimbulkan gejala demam tinggi, sakit kepala, serta nyeri tulang dan otot. Jika tidak ditangani dengan tepat, demam berdarah berisiko mengancam nyawa. Virus Dengue disebarkan oleh nyamuk jenis Aedes aegypti dan Aedes albopictus, yang biasanya aktif dan menggigit pada pagi dan sore hari. Nyamuk ini hidup di genangan air yang tenang dan dasarnya bersih, seperti genangan air di ban mobil, sampah plastik, atau tempat minum hewan."
@@ -72,10 +78,911 @@
     {
       "tag": "tindakan_DBD",
       "patterns": [
-        "pertolongan pertama DBD"
+        "pertolongan pertama DBD",
+        "apa yang harus dilakukan saat terkena DBD?",
+        "aku terkena DBD harus ngapain nih"
       ],
       "responses": [
         "Lakukan pemeriksaan ke dokter jika mengalami gejala DBD. Penanganan medis di IGD perlu segera dilakukan pada penderita DBD jika penderita mengalami mimisan dan gusi berdarah muntah berdarah buang air besar berwarna hitam atau berdarah"
+      ]
+    },
+    {
+      "tag": "diagnosis_cacar_air",
+      "patterns": [
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit cacar air"
+      ]
+    },
+    {
+      "tag": "tentang_cacar_air",
+      "patterns": [
+        "apa itu cacar air?",
+        "jelaskan tentang cacar air",
+        "beritahu aku tentang cacar air"
+      ],
+      "responses": [
+        "Cacar air adalah penyakit menular yang disebabkan oleh virus Varicella zoster. Penyakit ini ditandai bentol-bentol berisi cairan yang terasa sangat gatal di seluruh tubuh. Virus ini mudah menular melalui percikan ludah, atau kontak langsung dengan cairan yang berasal dari ruam. Penyakit ini lebih rentan menyerang anak-anak usia di bawah 12 tahun. Beberapa faktor lain yang dapat meningkatkan risiko terkena cacar air adalah belum pernah menderita cacar air sebelumnya dan belum menerima vaksin cacar air."
+      ]
+    },
+    {
+      "tag": "tindakan_cacar_air",
+      "patterns": [
+        "pertolongan pertama cacar air",
+        "apa yang harus dilakukan saat terkena cacar air?",
+        "aku terkena cacar air harus ngapain nih"
+      ],
+      "responses": [
+        "Ada beberapa upaya yang bisa dilakukan untuk meringankan gejala yaitu mengenakan pakaian yang longgar dan berbahan lembut, serta tidak menggaruk ruam atau luka cacar air. Penyakit ini biasanya sembuh setelah 5 sampai 10 hari jika daya tahan tubuh penderitanya baik"
+      ]
+    },
+    {
+      "tag": "diagnosis_campak",
+      "patterns": [
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit campak"
+      ]
+    },
+    {
+      "tag": "tentang_campak",
+      "patterns": [
+        "apa itu campak?",
+        "jelaskan tentang campak",
+        "beritahu aku tentang campak"
+      ],
+      "responses": [
+        "Campak atau measles adalah penyakit akibat infeksi virus yang ditandai dengan demam, sakit tenggorokan, dan ruam di seluruh tubuh. Gejala awal campak adalah sakit tenggorokan, mata berair dan kemerahan (konjungtivitis), dan bintik putih di dalam mulut. Ruam yang muncul mulanya berupa bintik-bintik merah kecil, kemudian menyatu hingga ukurannya tampak lebih besar."
+      ]
+    },
+    {
+      "tag": "tindakan_campak",
+      "patterns": [
+        "pertolongan pertama campak",
+        "apa yang harus dilakukan saat terkena campak?",
+        "aku terkena campak harus ngapain nih"
+      ],
+      "responses": [
+        "Campak dapat sembuh dalam beberapa hari tanpa pengobatan. Namun, untuk membantu meredakan gejala, penderita disarankan untuk banyak minum air putih, minum obat pereda demam seperti paracetamol atau ibnuprofen, beristirahat yang cukup, dan mengonsumsi suplemen vitamin A"
+      ]
+    },
+    {
+      "tag": "diagnosis_hepatitis_A",
+      "patterns": [
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis A"
+      ]
+    },
+    {
+      "tag": "tentang_hepatitis_A",
+      "patterns": [
+        "apa itu hepatitis A?",
+        "jelaskan tentang hepatitis A",
+        "beritahu aku tentang hepatitis A"
+      ],
+      "responses": [
+        "Hepatitis A adalah peradangan pada organ hati yang disebabkan oleh infeksi virus hepatitis A. Infeksi yang mengganggu kerja hati ini dapat menular dengan mudah melalui makanan atau minuman yang terkontaminasi virus tersebut."
+      ]
+    },
+    {
+      "tag": "tindakan_hepatitis_A",
+      "patterns": [
+        "pertolongan pertama hepatitis A",
+        "apa yang harus dilakukan saat terkena hepatitis A?",
+        "aku terkena hepatitis A harus ngapain nih"
+      ],
+      "responses": [
+        "Hepatitis A akan sembuh dengan sendirinya karena sistem kekebalan tubuh penderita akan membunuh virus tersebut."
+      ]
+    },
+    {
+      "tag": "diagnosis_ebola",
+      "patterns": [
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar "
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Ebola"
+      ]
+    },
+    {
+      "tag": "tentang_ebola",
+      "patterns": [
+        "apa itu ebola?",
+        "jelaskan tentang ebola",
+        "beritahu aku tentang ebola"
+      ],
+      "responses": [
+        "Ebola adalah penyakit mematikan akibat infeksi virus. Penyakit ini bisa menyebabkan kerusakan organ serta perdarahan di dalam tubuh penderitanya. Virus Ebola dapat menyebar melalui kontak langsung dengan virus, misalnya lewat luka terbuka di kulit, atau melalui selaput lendir di mata, hidung, mulut, atau dubur. Virus Ebola juga tidak menular melalui udara atau melalui gigitan nyamuk."
+      ]
+    },
+    {
+      "tag": "tindakan_ebola",
+      "patterns": [
+        "pertolongan pertama ebola",
+        "apa yang harus dilakukan saat terkena ebola?",
+        "aku terkena ebola harus ngapain nih"
+      ],
+      "responses": [
+        "Virus Ebola sangat menulardan mematikan, segera kunjungi dokter di rumah sakit terdekat untuk menjalani pemeriksaan dan mendapatkan penanganan."
+      ]
+    },
+    {
+      "tag": "diagnosis_polio",
+      "patterns": [
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Polio"
+      ]
+    },
+    {
+      "tag": "tentang_polio",
+      "patterns": [
+        "apa itu polio?",
+        "jelaskan tentang polio",
+        "beritahu aku tentang polio"
+      ],
+      "responses": [
+        "Polio adalah penyakit saraf yang dapat menyebabkan kelumpuhan permanen. Penyakit ini disebabkan oleh infeksi virus dan sangat menular, tetapi dapat dicegah dengan melakukan imunisasi polio."
+      ]
+    },
+    {
+      "tag": "tindakan_polio",
+      "patterns": [
+        "pertolongan pertama polio",
+        "apa yang harus dilakukan saat terkena polio?",
+        "aku terkena polio harus ngapain nih"
+      ],
+      "responses": [
+        "polio dapat dibagi menjadi dua jenis, yaitu polio yang tidak menyebabkan kelumpuhan (nonparalisis) dan polio yang menyebabkan kelumpuhan (paralisis). apabila anda mengalami gejala seperti diatas anda harus banyak beristirahat dan meminum obat Obat pereda nyeri, obat antibiotik, obat pelemas otot (antispasmodik)"
+      ]
+    },
+    {
+      "tag": "diagnosis_gondongan",
+      "patterns": [
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Gondongan"
+      ]
+    },
+    {
+      "tag": "tentang_gondongan",
+      "patterns": [
+        "apa itu gondongan?",
+        "jelaskan tentang gondongan",
+        "beritahu aku tentang gondongan"
+      ],
+      "responses": [
+        "Gondongan adalah peradangan kelenjar ludah di bagian samping wajah (parotis) akibat infeksi virus. Kondisi ini ditandai dengan pembengkakan pada sisi wajah di bawah telinga. Gondongan dapat menular dan umumnya diderita oleh anak-anak berusia 5 sampai 9 tahun.Gondongan disebabkan oleh infeksi virus dari golongan paramyxovirus. Penyebaran virus ini bisa dengan brbagi alat makan dan minum dengan penderita"
+      ]
+    },
+    {
+      "tag": "tindakan_gondongan",
+      "patterns": [
+        "pertolongan pertama gondongan",
+        "apa yang harus dilakukan saat terkena gondongan?",
+        "aku terkena gondongan harus ngapain nih"
+      ],
+      "responses": [
+        "Jika sistem imun penderita baik, gondongan dapat pulih dengan sendirinya dalam waktu 1 sampai 2 minggu. Beberapa cara yang bisa dilakukan untuk meredakan keluhan dan gejala yang muncul saat menderita gondongan adalah memperbanyak minum air, mengonsumsi pereda demam dan nyeri seperti ibuprofen dan paracetamol, waktu tidur yang cukup, mengompres area yang bengkak"
+      ]
+    },
+    {
+      "tag": "diagnosis_flusingapura",
+      "patterns": [
+        "aku demam muncul sariawan ruam dan lepuh"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Flu Singapura"
+      ]
+    },
+    {
+      "tag": "tentang_flusingapura",
+      "patterns": [
+        "apa itu flu singapura?",
+        "jelaskan tentang flu singapura",
+        "beritahu aku tentang flu singapura"
+      ],
+      "responses": [
+        "Flu Singapura adalah penyakit infeksi virus yang menyebabkan timbulnya sariawan di mulut dan luka lepuh di kulit.Flu Singapura atau hand, foot, and mouth disease (HFMD) adalah penyakit yang mudah menular dan sering menyerang anak-anak usia 5–10 tahun. Walaupun lebih sering menyerang anak-anak, flu Singapura juga bisa menyerang orang dewasa."
+      ]
+    },
+    {
+      "tag": "tindakan_flusingapura",
+      "patterns": [
+        "pertolongan pertama flu singapura",
+        "apa yang harus dilakukan saat terkena flu singapura?",
+        "aku terkena flu singapura harus ngapain nih"
+      ],
+      "responses": [
+        "Pada sebagian besar kasus, flu Singapura tidak membutuhkan pengobatan khusus karena gejalanya akan mereda setelah 7 sampai 10 hari. Namun, untuk meredakan keluhan dan mempercepat pemulihan diperlukan untuk mengonsumsi paracetamol atau ibuprofen, salep kulit untuk mengurangi keluhan pada kulit, termasuk ruam, lepuh, dan gatal di kulit, dan Tablet isap untuk mengurangi nyeri tenggorokan"
+      ]
+    },
+    {
+      "tag": "diagnosis_demamkelenjar",
+      "patterns": [
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Demam Kelenjar"
+      ]
+    },
+    {
+      "tag": "tentang_demamkelenjar",
+      "patterns": [
+        "apa itu demam kelenjar?",
+        "jelaskan tentang demam kelenjar",
+        "beritahu aku tentang demam kelenjar"
+      ],
+      "responses": [
+        "Demam kelenjar adalah penyakit akibat infeksi virus yang lebih sering menyerang remaja. Gejala demam kelenjar mirip dengan gejala flu, antara lain demam, sakit tenggorokan, dan menggigil.Demam kelenjar tidak berbahaya dan umumnya sembuh dengan sendirinya dalam beberapa minggu. Setelah sembuh, seseorang yang pernah terserang demam kelenjar akan kebal terhadap penyakit ini."
+      ]
+    },
+    {
+      "tag": "tindakan_demamkelenjar",
+      "patterns": [
+        "pertolongan pertama demam kelenjar",
+        "apa yang harus dilakukan saat terkena demam kelenjar?",
+        "aku terkena demam kelenjar harus ngapain nih"
+      ],
+      "responses": [
+        "Demam kelenjar biasanya sembuh dengan sendirinya dalam beberapa minggu. Dalam kurun waktu tersebut, pasien disarankan beristirahat yang cukup, berkumur dengan air garam, banyak minum air putih, mengonsumsi makanan bergizi seimbang, mengonsumsi obat pereda nyeri seperti paracetamol"
+      ]
+    },
+    {
+      "tag": "diagnosis_herpes",
+      "patterns": [
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Herpes"
+      ]
+    },
+    {
+      "tag": "tentang_herpes",
+      "patterns": [
+        "apa itu herpes?",
+        "jelaskan tentang herpes",
+        "beritahu aku tentang herpes"
+      ],
+      "responses": [
+        "Herpes adalah kelompok virus yang dapat menyebabkan infeksi. Infeksi virus herpes umumnya ditandai dengan kulit kering, luka lepuh, atau luka terbuka yang berair. Herpes dapat menyerang siapa saja dalam semua kelompok usia. Akan tetapi, infeksi virus ini lebih rentan terjadi pada seseorang yang sering kontak dengan penderita herpes, seperti petugas medis atau anggota keluarga yang merawat pasien herpes."
+      ]
+    },
+    {
+      "tag": "tindakan_herpes",
+      "patterns": [
+        "pertolongan pertama herpes",
+        "apa yang harus dilakukan saat terkena herpes?",
+        "aku terkena herpes harus ngapain nih"
+      ],
+      "responses": [
+        "Pada umumnya, luka dan lepuh akibat herpes dapat sembuh dengan sendirinya dalam waktu 2 - 4 minggu. Fokus pengobatan dengan obat herpes adalah untuk membantu meredakan keluhan, mencegah penularan herpes, dan menurunkan risiko terjadinya komplikasi. Beberapa obat-obatan antivirus dapat digunakan untuk mengatasi infeksi virus herpes yaitu Zooter dan Acyclovir. Selain itu anda juga dapat mengonsumsi paracetamol atau ibuprofen untuk meredakan nyeri, mengompres ruam kulit dengan air hangan, dan menggunakan pakaian longgar"
+      ]
+    },
+    {
+      "tag": "diagnosis_cacarmonyet",
+      "patterns": [
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit cacar monyet"
+      ]
+    },
+    {
+      "tag": "tentang_cacarmonyet",
+      "patterns": [
+        "apa itu cacar monyet?",
+        "jelaskan tentang cacar monyet",
+        "beritahu aku tentang cacar monyet"
+      ],
+      "responses": [
+        "Cacar monyet adalah infeksi virus yang ditandai dengan bintil bernanah di kulit. Cacar monyet menyebar antarmanusia melalui percikan liur yang masuk melalui mata, mulut, hidung, atau luka di kulit. Penularan juga bisa terjadi melalui benda yang terkontaminasi, seperti pakaian penderita."
+      ]
+    },
+    {
+      "tag": "tindakan_cacarmonyet",
+      "patterns": [
+        "pertolongan pertama cacar monyet",
+        "apa yang harus dilakukan saat terkena cacar monyet?",
+        "aku terkena cacar monyet harus ngapain nih"
+      ],
+      "responses": [
+        "Penyakit ini umumnya hanya menimbulkan gejala ringan dan dapat sembuh dengan sendirinya dalam 2 sampai 4 minggu."
+      ]
+    },
+    {
+      "tag": "diagnosis_SARS",
+      "patterns": [
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit SARS"
+      ]
+    },
+    {
+      "tag": "tentang_SARS",
+      "patterns": [
+        "apa itu SARS?",
+        "jelaskan tentang SARS",
+        "beritahu aku tentang SARS"
+      ],
+      "responses": [
+        "SARS atau Severe acute respiratory syndrome adalah infeksi saluran pernapasan yang disebabkan oleh SARS-associated coronavirus (SARS-CoV). Gejala awalnya mirip dengan influenza, tetapi dapat memburuk dengan cepat. SARS disebabkan oleh salah satu jenis coronavirus yang dikenal dengan SARS-associated coronavirus (SARS-CoV). Saat terinfeksi virus ini, penderita akan mengalami gangguan pernapasan ringan atau berat. Gejala SARS biasanya muncul 2–7 hari setelah seseorang terinfeksi virus SARS-CoV, tetapi bisa juga baru muncul 10 hari setelahnya."
+      ]
+    },
+    {
+      "tag": "tindakan_SARS",
+      "patterns": [
+        "pertolongan pertama SARS",
+        "apa yang harus dilakukan saat terkena SARS?",
+        "aku terkena SARS harus ngapain nih"
+      ],
+      "responses": [
+        "Hindari kontak jarak dekat dengan orang lain. Beri tahu keluarga atau teman untuk tidak menjenguk dulu sampai 10 hari setelah gejala hilang. Segera ke dokter jika gejala-gejala yang telah disebutkan di atas tidak kunjung sembuh, SARS adalah penyakit serius yang bisa menyebabkan kematian bila tidak segera ditangani.  "
+      ]
+    },
+    {
+      "tag": "diagnosis_hepatitis_E",
+      "patterns": [
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis e"
+      ]
+    },
+    {
+      "tag": "tentang_hepatitis_E",
+      "patterns": [
+        "apa itu hepatitis E?",
+        "jelaskan tentang hepatitis E",
+        "beritahu aku tentang hepatitis E"
+      ],
+      "responses": [
+        "Hepatitis E adalah salah satu infeksi hepatitis yang disebabkan oleh virus. Penularan virus ini terjadi melalui konsumsi makanan dan minuman yang terkontaminasi. Virus hepatitis E yang masuk ke dalam saluran pencernaan dapat menyebabkan peradangan dan kerusakan pada liver atau hati."
+      ]
+    },
+    {
+      "tag": "tindakan_hepatitis_E",
+      "patterns": [
+        "pertolongan pertama hepatitis E",
+        "apa yang harus dilakukan saat terkena hepatitis E?",
+        "aku terkena hepatitis E harus ngapain nih"
+      ],
+      "responses": [
+        "Penderita hepatitis E umumnya dapat pulih dengan sendirinya dalam 4–6 minggu. Untuk membantu meringankan penderita disarankan beristirahat dan tidur yang cukup, Mengonsumsi makanan yang sehat dan bergizi Memenuhi kebutuhan cairan dengan banyak minum Menghindari konsumsi minuman beralkohol"
+      ]
+    },
+    {
+      "tag": "diagnosis_hepatitis_E",
+      "patterns": [
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis e"
+      ]
+    },
+    {
+      "tag": "tentang_hepatitis_E",
+      "patterns": [
+        "apa itu hepatitis E?",
+        "jelaskan tentang hepatitis E",
+        "beritahu aku tentang hepatitis E"
+      ],
+      "responses": [
+        "Hepatitis E adalah salah satu infeksi hepatitis yang disebabkan oleh virus. Penularan virus ini terjadi melalui konsumsi makanan dan minuman yang terkontaminasi. Virus hepatitis E yang masuk ke dalam saluran pencernaan dapat menyebabkan peradangan dan kerusakan pada liver atau hati."
+      ]
+    },
+    {
+      "tag": "tindakan_hepatitis_E",
+      "patterns": [
+        "pertolongan pertama hepatitis E",
+        "apa yang harus dilakukan saat terkena hepatitis E?",
+        "aku terkena hepatitis E harus ngapain nih"
+      ],
+      "responses": [
+        "Penderita hepatitis E umumnya dapat pulih dengan sendirinya dalam 4–6 minggu. Untuk membantu meringankan penderita disarankan beristirahat dan tidur yang cukup, Mengonsumsi makanan yang sehat dan bergizi Memenuhi kebutuhan cairan dengan banyak minum Menghindari konsumsi minuman beralkohol"
+      ]
+    },
+    {
+      "tag": "diagnosis_radang_otak",
+      "patterns": [
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit radang otak"
+      ]
+    },
+    {
+      "tag": "tentang_radang_otak",
+      "patterns": [
+        "apa itu radang otak?",
+        "jelaskan tentang radang otak",
+        "beritahu aku tentang radang otak"
+      ],
+      "responses": [
+        "Radang otak atau japanese encephalitis adalah penyakit yang disebabkan oleh Japanese encephalitis virus. Penyakit ini menyebar ke manusia melalui gigitan nyamuk yang terinfeksi virus tersebut. Meski umumnya bergejala ringan, sebagian kasus Japanese encephalitis dapat menyebabkan radang otak yang berakibat fatal. Meski jarang terjadi, Japanese encephalitis dapat mengakibatkan kondisi yang fatal. Angka kematian penyakit ini mencapai 20–30% dari keseluruhan kasus, dan sebanyak 30–50% kasus mengakibatkan gangguan saraf permanen. Kasus yang parah biasanya terjadi pada anak-anak, terutama yang berusia kurang dari 10 tahun."
+      ]
+    },
+    {
+      "tag": "tindakan_radang_otak",
+      "patterns": [
+        "pertolongan pertama radang otak",
+        "apa yang harus dilakukan saat terkena radang otak?",
+        "aku terkena radang otak harus ngapain nih"
+      ],
+      "responses": [
+        "Belum ada obat antivirus yang secara khusus dapat mengobati Japanese encephalitis. Lakukan pemeriksaan ke dokter jika Anda merasa gejala tersebut. Penanganan yang dilakukan dokter bertujuan untuk menstabilkan kondisi pasien, menurunkan tekanan di dalam otak, dan mengobati komplikasi yang mungkin terjadi."
+      ]
+    },
+    {
+      "tag": "diagnosis_chikungunya",
+      "patterns": [
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit chikungunya"
+      ]
+    },
+    {
+      "tag": "tentang_chikungunya",
+      "patterns": [
+        "apa itu chikungunya?",
+        "jelaskan tentang chikungunya",
+        "beritahu aku tentang chikungunya"
+      ],
+      "responses": [
+        "Chikungunya adalah infeksi virus yang ditandai dengan demam dan nyeri sendi secara mendadak. Virus ini menyerang dan menulari manusia melalui gigitan nyamuk Aedes aegypti atau Aedes albopictus, dua jenis nyamuk yang juga dikenal sebagai penyebab demam berdarah. Chikungunya dapat menyerang siapa saja. Namun, risiko terserang penyakit ini lebih tinggi pada bayi baru lahir, orang usia 65 tahun ke atas, dan orang dengan kondisi medis lain, seperti hipertensi, diabetes, dan penyakit jantung."
+      ]
+    },
+    {
+      "tag": "tindakan_chikungunya",
+      "patterns": [
+        "pertolongan pertama chikungunya",
+        "apa yang harus dilakukan saat terkena chikungunya?",
+        "aku terkena chikungunya harus ngapain nih"
+      ],
+      "responses": [
+        "Chikungunya tidak memerlukan pengobatan khusus, karena akan sembuh dengan sendirinya. Dalam banyak kasus, gejala penyakit ini akan mereda dalam 1–2 minggu. Pengobatan chikungunya hanya untuk meredakan gejala penyakit ini. Dokter akan meresepkan obat antiradang atau obat flu tulang, seperti paracetamol, ibuprofen, atau naproxen, guna meredakan nyeri sendi dan demam."
+      ]
+    },
+    {
+      "tag": "diagnosis_hiv_aids",
+      "patterns": [
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit HIV AIDS"
+      ]
+    },
+    {
+      "tag": "tentang_hiv_aids",
+      "patterns": [
+        "apa itu hiv aids?",
+        "jelaskan tentang hiv aids",
+        "beritahu aku tentang hiv aids"
+      ],
+      "responses": [
+        "HIV (human immunodeficiency virus) adalah virus yang merusak sistem kekebalan tubuh dengan menginfeksi dan menghancurkan sel CD4. Jika makin banyak sel CD4 yang hancur, daya tahan tubuh akan makin melemah sehingga rentan diserang berbagai penyakit. HIV yang tidak segera ditangani akan berkembang menjadi kondisi serius yang disebut AIDS (acquired immunodeficiency syndrome). AIDS adalah stadium akhir dari infeksi HIV. Pada tahap ini, kemampuan tubuh untuk melawan infeksi sudah hilang sepenuhnya. Penularan HIV terjadi melalui kontak dengan cairan tubuh penderita, seperti darah, sperma, cairan vagina, cairan anus, serta ASI. Perlu diketahui, HIV tidak menular melalui udara, air, keringat, air mata, air liur, gigitan nyamuk, atau sentuhan fisik. HIV adalah penyakit seumur hidup. Dengan kata lain, virus HIV akan menetap di dalam tubuh penderita seumur hidupnya. Meski belum ada metode pengobatan untuk mengatasi HIV, tetapi ada obat yang bisa memperlambat perkembangan penyakit ini dan dapat meningkatkan harapan hidup penderita."
+      ]
+    },
+    {
+      "tag": "tindakan_hiv_aids",
+      "patterns": [
+        "pertolongan pertama hiv aids",
+        "apa yang harus dilakukan saat terkena hiv aids?",
+        "aku terkena hiv aids harus ngapain nih"
+      ],
+      "responses": [
+        "Segera periksakan diri ke dokter bila Anda mengalami gejala seperti yang telah disebutkan di atas, Meski sampai saat ini belum ada obat untuk menyembuhkan HIV, tetapi ada jenis obat yang dapat memperlambat perkembangan virus. Jenis obat ini disebut sebagai antiretroviral (ARV). Dokter dapat memberikan resep atau dosis obat sesuai kondisi pasien saat itu. Pengobatan HIV perlu dilakukan secara bertahap dan dalam waktu yang cukup lama."
+      ]
+    },
+    {
+      "tag": "diagnosis_hepatitis_b",
+      "patterns": [
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati."
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis b"
+      ]
+    },
+    {
+      "tag": "tentang_hepatitis_b",
+      "patterns": [
+        "apa itu hepatitis b?",
+        "jelaskan tentang hepatitis b",
+        "beritahu aku tentang hepatitis b"
+      ],
+      "responses": [
+        "Hepatitis B adalah peradangan pada organ hati yang disebabkan oleh virus hepatitis B. Virus ini dapat menular melalui hubungan seksual atau berbagi jarum suntik. "
+      ]
+    },
+    {
+      "tag": "tindakan_hepatitis_b",
+      "patterns": [
+        "pertolongan pertama hepatitis b",
+        "apa yang harus dilakukan saat terkena hepatitis b?",
+        "aku terkena hepatitis b harus ngapain nih"
+      ],
+      "responses": [
+        "Tidak ada metode penanganan khusus untuk mengobati hepatitis B akut, karena gejala yang muncul dapat hilang dengan sendirinya setelah 2-3 minggu tanpa harus diobati. Namun, jika gejala yang muncul cukup parah, dokter akan meresepkan obat antivirus, seperti lamivudine. Jika setelah 6 bulan virus hepatitis B masih terdeteksi melalui tes darah, pasien dinyatakan menderita hepatitis B kronis sehingga perlu penanganan serius dari dokter"
+      ]
+    },
+    {
+      "tag": "diagnosis_influenza",
+      "patterns": [
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit influenza"
+      ]
+    },
+    {
+      "tag": "tentang_influenza",
+      "patterns": [
+        "apa itu influenza?",
+        "jelaskan tentang influenza",
+        "beritahu aku tentang influenza"
+      ],
+      "responses": [
+        "Flu atau influenza adalah infeksi virus yang menyerang hidung, tenggorokan, dan paru-paru. Penderita flu dapat mengalami demam, sakit kepala, pilek, hidung tersumbat, serta batuk. Flu merupakan penyakit yang mudah menular ke orang lain, terutama pada 3-4 hari pertama setelah penderita terinfeksi. Bahkan pada beberapa kasus, penderita flu dapat menularkan penyakitnya sebelum gejala muncul."
+      ]
+    },
+    {
+      "tag": "tindakan_influenza",
+      "patterns": [
+        "pertolongan pertama influenza",
+        "apa yang harus dilakukan saat terkena influenza?",
+        "aku terkena influenza harus ngapain nih"
+      ],
+      "responses": [
+        "Flu dapat ditangani di rumah dengan istirahat yang cukup, minum banyak air putih, mengonsumsi obat flu dan batuk dan pereda demam seperti paracetamol"
+      ]
+    },
+    {
+      "tag": "diagnosis_herpes_zoster",
+      "patterns": [
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit herpes zoster"
+      ]
+    },
+    {
+      "tag": "tentang_herpes_zoster",
+      "patterns": [
+        "apa itu herpes zoster?",
+        "jelaskan tentang herpes zoster",
+        "beritahu aku tentang herpes zoster"
+      ],
+      "responses": [
+        "Herpes zoster atau cacar ular adalah penyakit yang ditandai dengan timbulnya ruam dan bintil berisi air yang disertai nyeri pada salah satu sisi tubuh. Penyakit ini disebabkan oleh infeksi virus Varicella Zoster, yang juga menjadi penyebab cacar air. Pada orang yang telah sembuh dari cacar air, virus tersebut tidak mati, tetapi hanya menjadi tidak aktif. Virus yang tidak aktif ini kemudian pindah ke saraf di sumsum tulang belakang dan otak untuk menetap selama bertahun-tahun. Pada fase ini, virus tidak menimbulkan gejala apa pun. Pada kondisi tertentu, virus yang menetap dalam sel saraf tersebut bisa aktif kembali. Virus yang aktif akan memengaruhi sel saraf di kulit sehingga dapat menimbulkan gejala ruam herpes zoster di kulit penderitanya."
+      ]
+    },
+    {
+      "tag": "tindakan_herpes_zoster",
+      "patterns": [
+        "pertolongan pertama herpes zoster",
+        "apa yang harus dilakukan saat terkena herpes zoster?",
+        "aku terkena herpes zoster harus ngapain nih"
+      ],
+      "responses": [
+        "Pengobatan dengan obat antivirus perlu segera dilakukan guna mempercepat penyembuhan dan untuk mengurangi risiko terjadinya komplikasi. Contoh obat antivirus yang dapat diberikan adalah Famiciclovir, acyclovir, valacyclovir. Selain obat antivirus, obat pereda nyeri yang dijual bebas juga dapat digunakan. Obat-obatan tersebut bisa berupa obat minum yang mengandung paracetamol dan ibuprofen, atau obat oles yang mengandung lidokain. Obat minum antihistamin juga dapat diresepkan untuk meredakan gatal."
+      ]
+    },
+    {
+      "tag": "diagnosis_hpv",
+      "patterns": [
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal."
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit HPV"
+      ]
+    },
+    {
+      "tag": "tentang_hpv",
+      "patterns": [
+        "apa itu hpv?",
+        "jelaskan tentang hpv",
+        "beritahu aku tentang hpv"
+      ],
+      "responses": [
+        "Human papillomavirus atau HPV adalah virus yang dapat menyebabkan infeksi di permukaan kulit, serta berpotensi menyebabkan kanker serviks. Infeksi virus ini ditandai dengan tumbuhnya kutil pada kulit di berbagai area tubuh, seperti lengan, tungkai, mulut, serta area kelamin. Infeksi virus HPV bisa menular melalui kontak langsung dengan kulit atau hubungan seks dengan penderita. Sebagian besar infeksi HPV tidak berbahaya dan tidak menimbulkan gejala."
+      ]
+    },
+    {
+      "tag": "tindakan_hpv",
+      "patterns": [
+        "pertolongan pertama hpv",
+        "apa yang harus dilakukan saat terkena hpv?",
+        "aku terkena hpv harus ngapain nih"
+      ],
+      "responses": [
+        "Sebagian besar kasus HPV dapat hilang dengan sendirinya tanpa diobati. Namun, bagi yang telah terdiagnosis mengalami infeksi HPV, terutama wanita yang mengalami kutil kelamin, dokter kandungan akan menganjurkan pemeriksaan kembali dalam waktu 1 tahun. Untuk kutil di kulit dapat diberikan obat oles berisi asam salisilat untuk mengikis lapisan kutil secara bertahap. jika obat oles tidak berhasil, maka dapat dilakukan tindakan pengangkatan kutil oleh dokter."
+      ]
+    },
+    {
+      "tag": "diagnosis_rubella",
+      "patterns": [
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Rubella"
+      ]
+    },
+    {
+      "tag": "tentang_rubella",
+      "patterns": [
+        "apa itu rubella?",
+        "jelaskan tentang rubella",
+        "beritahu aku tentang rubella"
+      ],
+      "responses": [
+        "Rubella adalah penyakit akibat infeksi virus, yang menimbulkan gejala ruam merah pada kulit. Meski sama-sama menyebabkan ruam kemerahan di kulit, rubella berbeda dengan campak. Selain disebabkan oleh virus yang berbeda, gejala rubella lebih ringan dibanding campak. rubella dapat memberikan dampak yang serius bila menular pada ibu hamil, terutama pada trimester pertama kehamilan. Kondisi tersebut bisa menyebabkan keguguran. Jika kehamilan terus berlangsung, bayi dapat terlahir tuli, menderita katarak, atau mengalami kelainan jantung."
+      ]
+    },
+    {
+      "tag": "tindakan_rubella",
+      "patterns": [
+        "pertolongan pertama rubella",
+        "apa yang harus dilakukan saat terkena rubella?",
+        "aku terkena rubella harus ngapain nih"
+      ],
+      "responses": [
+        "Pengobatan rubella cukup dilakukan di rumah, mengonsumsi paracetamol guna meredakan nyeri dan demam, serta  banyak beristirahat di rumah agar virus tidak menyebar ke orang lain. Pada Ibu hamil penanganan oleh dokter perlu dilakukan untuk pemberian dosis hyperimmune globulin untuk melawan virus."
+      ]
+    },
+    {
+      "tag": "diagnosis_flu_burung",
+      "patterns": [
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit flu burung"
+      ]
+    },
+    {
+      "tag": "tentang_flu_burung",
+      "patterns": [
+        "apa itu flu burung?",
+        "jelaskan tentang flu burung",
+        "beritahu aku tentang flu burung"
+      ],
+      "responses": [
+        "Flu burung adalah penyakit yang disebabkan oleh infeksi virus influenza tipe A yang ditularkan oleh unggas ke manusia. Ada banyak jenis virus flu burung, tetapi hanya beberapa yang dapat menyebabkan infeksi pada manusia.Risiko terinfeksi virus flu burung akan lebih tinggi pada orang yang memiliki kondisi seperti bekerja sebagai peternak atau penjagal unggas, tinggal di dekat peternakan unggas atau pasar unggas hidup, bekerja sebagai tenaga kesehatan yang merawat penderita flu burung"
+      ]
+    },
+    {
+      "tag": "tindakan_flu_burung",
+      "patterns": [
+        "pertolongan pertama flu burung",
+        "apa yang harus dilakukan saat terkena flu burung?",
+        "aku terkena flu burung harus ngapain nih"
+      ],
+      "responses": [
+        "Obat-obatan antivirus merupakan obat utama yang digunakan untuk mengatasi flu burung. Beberapa obat antivirus yang biasanya diberikan adalah Oseltamivir, Peramivir, Zanamivir, Amantadine, Rimantadine. Obat antivirus dapat meredakan gejala, mencegah komplikasi, dan meningkatkan peluang pasien untuk sembuh. Obat ini perlu dikonsumsi secepatnya dalam waktu 2 hari setelah gejala muncul."
+      ]
+    },
+    {
+      "tag": "diagnosis_virus_zika",
+      "patterns": [
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit virus zika"
+      ]
+    },
+    {
+      "tag": "tentang_virus_zika",
+      "patterns": [
+        "apa itu virus zika?",
+        "jelaskan tentang virus zika",
+        "beritahu aku tentang virus zika"
+      ],
+      "responses": [
+        "Virus Zika adalah penyakit yang ditularkan melalui gigitan nyamuk. Penyakit ini biasanya tidak bergejala, tetapi juga bisa menimbulkan gejala ringan berupa demam, ruam, dan nyeri otot. Virus Zika ditularkan melalui gigitan nyamuk Aedes aegypti dan Aedes albopictus. Spesies nyamuk tersebut sama dengan spesies nyamuk yang menularkan demam berdarah dan chikungunya. Di indonesia data angka kejadian virus Zika belum tersedia secara lengkap. Hal ini karena sebagian besar kasus infeksi virus Zika tidak bergejala, atau karena salah didiagnosis sebagai demam berdarah. "
+      ]
+    },
+    {
+      "tag": "tindakan_virus_zika",
+      "patterns": [
+        "pertolongan pertama virus zika",
+        "apa yang harus dilakukan saat terkena virus zika?",
+        "aku terkena virus zika harus ngapain nih"
+      ],
+      "responses": [
+        "Infeksi virus Zika pada umumnya tidak memerlukan penanganan khusus. Dokter hanya akan meresepkan paracetamol untuk meredakan keluhan sakit kepala dan demam. Pasien juga akan disarankan untuk beristirahat yang cukup dan banyak minum air putih guna mencegah dehidrasi."
+      ]
+    },
+    {
+      "tag": "diagnosis_PTKM",
+      "patterns": [
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit tangan kaki dan mulut"
+      ]
+    },
+    {
+      "tag": "tentang_PTKM",
+      "patterns": [
+        "apa itu penyakit tangan kaki dan mulut?",
+        "jelaskan tentang penyakit tangan kaki dan mulut",
+        "beritahu aku tentang penyakit tangan kaki dan mulut"
+      ],
+      "responses": [
+        "Penyakit tangan kaki dan mulut atau flu singapura adalah infeksi virus yang ditandai dengan luka lepuh di mulut, serta ruam atau bintik merah di tangan dan kaki. Penyakit ini sangat menular dan banyak menyerang anak usia di bawah 5 tahun."
+      ]
+    },
+    {
+      "tag": "tindakan_PTKM",
+      "patterns": [
+        "pertolongan pertama penyakit tangan kaki dan mulut",
+        "apa yang harus dilakukan saat terkena penyakit tangan kaki dan mulut?",
+        "aku terkena penyakit tangan kaki dan mulut harus ngapain nih"
+      ],
+      "responses": [
+        "Penyakit tangan kaki dan mulut tidak membutuhkan pengobatan secara khusus, karena biasanya menghilang dengan sendirinya dalam waktu 7–10 hari. Penderita cukup melakukan upaya mandiri di rumah untuk meredakan keluhan, seperti banyak minum untuk menghindari dehidrasi, mengonsumsi makanan lembut yang lebih mudah dikunyah dan ditelan, menghindari makanan atau minuman yang pedas, asam, terlalu panas, atau terlalu asin, berkumur dengan air garam hangat setelah makan untuk meredakan nyeri dan bengkak, mengonsumsi paracetamol atau ibuprofen, gunakan bedak untuk meredakan gatal dan ruam kulit"
+      ]
+    },
+    {
+      "tag": "diagnosis_hepatitis_d",
+      "patterns": [
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis d"
+      ]
+    },
+    {
+      "tag": "tentang_hepatitis_d",
+      "patterns": [
+        "apa itu hepatitis d?",
+        "jelaskan tentang hepatitis d",
+        "beritahu aku tentang hepatitis d"
+      ],
+      "responses": [
+        "Hepatitis D adalah peradangan hati akibat infeksi virus hepatitis delta (HDV). Penyakit ini hanya bisa terjadi pada seseorang yang juga terinfeksi oleh virus hepatitis B (HBV). Hepatitis D merupakan jenis hepatitis yang tidak umum terjadi. Hal ini karena infeksi virus hepatitis delta hanya terjadi jika seseorang sudah pernah terinfeksi hepatitis B sebelumnya. "
+      ]
+    },
+    {
+      "tag": "tindakan_hepatitis_d",
+      "patterns": [
+        "pertolongan pertama hepatitis d",
+        "apa yang harus dilakukan saat terkena hepatitis d?",
+        "aku terkena hepatitis d harus ngapain nih"
+      ],
+      "responses": [
+        "Pengobatan hepatitis D bertujuan untuk menghambat perkembangbiakan virus hepatitis D (HDV). Beberapa metode pengobatan yang dapat diberikan yaitu obat interferon yaitu obat dari sejenis protein yang bisa menghentikan penyebaran virus dan mencegahnya kembali muncul di kemudian hari. Obat-obatan antivirus yang dapat diberikan oleh dokter meliputi entecavir, tenofovir, dan lamivudine."
+      ]
+    },
+    {
+      "tag": "diagnosis_COVID-19",
+      "patterns": [
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena COVID-19"
+      ]
+    },
+    {
+      "tag": "tentang_COVID-19",
+      "patterns": [
+        "apa itu COVID 19?",
+        "jelaskan tentang COVID 19",
+        "beritahu aku tentang COVID 19"
+      ],
+      "responses": [
+        "COVID-19 adalah penyakit akibat infeksi virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 dapat menyebabkan gangguan sistem pernapasan, mulai dari gejala yang ringan seperti flu, hingga infeksi paru-paru, seperti pneumonia. COVID-19 dapat menginfeksi siapa saja, tetapi efeknya akan lebih berbahaya atau bahkan fatal bila menyerang lansia (orang lanjut usia), ibu hamil, perokok, penderita penyakit tertentu, dan orang yang daya tahan tubuhnya lemah, seperti penderita kanker. Karena mudah menular, penyakit ini juga berisiko tinggi menginfeksi para tenaga medis yang merawat pasien COVID-19. Oleh sebab itu, tenaga medis dan orang yang melakukan kontak dengan pasien COVID-19 perlu menggunakan alat pelindung diri (APD)."
+      ]
+    },
+    {
+      "tag": "tindakan_COVID-19",
+      "patterns": [
+        "pertolongan pertama COVID 19",
+        "apa yang harus dilakukan saat terkena COVID 19?",
+        "aku terkena COVID 19 harus ngapain nih"
+      ],
+      "responses": [
+        "lakukan perawatan atau isolasi mandiri di rumah. ruangan isolasi harus memiliki ventilasi dan cahaya yang baik serta pertukaran udara yang cukup. Selain itu, ruangan isolasi juga wajib dibersihkan setiap hari dengan air sabun atau desinfektan. Istirahat yang cukup untuk mempercepat proses penyembuhan. Banyak minum air putih untuk menjaga kadar cairan tubuh. Konsumsi obat pereda batuk, demam, dan nyeri. Perhatikan gejala yang Anda alami dan segera hubungi dokter jika gejala memburuk."
+      ]
+    },
+    {
+      "tag": "diagnosis_hantavirus",
+      "patterns": [
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena hantavirus"
+      ]
+    },
+    {
+      "tag": "tentang_hantavirus",
+      "patterns": [
+        "apa itu hantavirus?",
+        "jelaskan tentang hantavirus",
+        "beritahu aku tentang hantavirus"
+      ],
+      "responses": [
+        "Hantavirus adalah kelompok virus yang menyebabkan gangguan pada paru-paru (hantavirus pulmonary syndrome) atau pembuluh darah dan ginjal (hemorrhagic fever with renal syndrome). Virus ini dibawa dan disebarkan oleh tikus dan hewan pengerat lainnya. Berikut ini adalah sejumlah kondisi yang bisa menyebabkan seseorang terinfeksi hantavirus yaitu menyentuh feses, liur, atau urine, dari tikus yang terinfeksi hantavirus, menghirup partikel udara yang mengandung hantavirus, mngalami luka akibat gigitan tikus yang terinfeksi hantavirus. Faktor yang dapat meningkatkan risiko seseorang terinfeksi hantavirus adalah tinggal di rumah atau area yang terdapat banyak tikus"
+      ]
+    },
+    {
+      "tag": "tindakan_hantavirus",
+      "patterns": [
+        "pertolongan pertama hantavirus",
+        "apa yang harus dilakukan saat terkena hantavirus?",
+        "aku terkena hantavirus harus ngapain nih"
+      ],
+      "responses": [
+        "Segera ke dokter jika mengalami gejala yang telah disebutkan di atas, terutama jika Anda baru saja kontak atau bersentuhan dengan cairan tubuh tikus. Pengobatan umumnya dilakukan di unit perawatan intensif di rumah sakit. "
+      ]
+    },
+    {
+      "tag": "diagnosis_herpes_bibir",
+      "patterns": [
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri "
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena herpes bibir"
+      ]
+    },
+    {
+      "tag": "tentang_herpes_bibir",
+      "patterns": [
+        "apa itu herpes bibir?",
+        "jelaskan tentang herpes bibir",
+        "beritahu aku tentang herpes bibir"
+      ],
+      "responses": [
+        "Herpes bibir adalah penyakit infeksi pada bibir yang disebabkan oleh virus herpes simpleks tipe 1 (HSV-1). Penyakit ini ditandai dengan luka lepuh di bibir. Herpes bibir umumnya menular melalui ciuman atau berbagi alat makan. erpes bibir terjadi di area mulut, termasuk bibir, gusi, dan lidah. Seseorang yang pernah menderita herpes bibir bisa mengalaminya kembali di kemudian hari, karena virus herpes akan menetap di dalam tubuh seumur hidup. Herpes bibir dapat terjadi pada siapa saja. Namun, penyakit ini biasanya terjadi pada anak-anak. Herpes bibir juga lebih berisiko terjadi pada orang dewasa yang memiliki daya tahan tubuh yang lemah."
+      ]
+    },
+    {
+      "tag": "tindakan_herpes_bibir",
+      "patterns": [
+        "pertolongan pertama herpes bibir",
+        "apa yang harus dilakukan saat terkena herpes bibir?",
+        "aku terkena herpes bibir harus ngapain nih"
+      ],
+      "responses": [
+        "Untuk mempercepat proses penyembuhan gejala, dokter akan menganjurkan pasien melakukan perawatan mandiri sebagai berikut mengompres dingin luka di bibir, membersihkan area luka dengan lembut menggunakan sabun antiseptik, berkumur dengan air dingin atau air garam, mengonsumsi obat tablet antivirus, seperti acyclovir, famciclovir, atau valacyclovir, salep atau krim antivirus, yang mengandung acyclovir atau penciclovir, obat pereda nyeri, seperti paracetamol atau ibuprofen"
+      ]
+    },
+    {
+      "tag": "diagnosis_RSV",
+      "patterns": [
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru"
+      ],
+      "responses": [
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit RSV"
+      ]
+    },
+    {
+      "tag": "tentang_RSV",
+      "patterns": [
+        "apa itu RSV?",
+        "jelaskan tentang RSV",
+        "beritahu aku tentang RSV"
+      ],
+      "responses": [
+        "Respiratory syncytial virus atau RSV adalah jenis virus yang menginfeksi saluran pernapasan. Umumnya, virus ini hanya menyebabkan batuk pilek biasa. Namun, pada orang-orang tertentu, infeksi RSV dapat menimbulkan gejala berat yang perlu ditangani oleh dokter sesegera mungkin. RSV merupakan penyebab infeksi saluran pernapasan akut terbanyak pada bayi usia di bawah 2 tahun. Kondisi ini lebih sering terjadi pada bayi, tetapi juga dapat menyerang orang dewasa."
+      ]
+    },
+    {
+      "tag": "tindakan_RSV",
+      "patterns": [
+        "pertolongan pertama RSV",
+        "apa yang harus dilakukan saat terkena RSV?",
+        "aku terkena RSV harus ngapain nih"
+      ],
+      "responses": [
+        "infeksi RSV dapat sembuh dalam 1 sampai 2 minggu dengan istirahat yang cukup tanpa penanganan khusus. Namun, untuk mengatasi demam dan sakit kepala yang mungkin mengganggu selama masa pemulihan, dokter bisa memberikan obat seperti paracetamol. Perawatan mandiri di bawah ini juga bisa dilakukan untuk membantu penyembuhan diantaranya banyak minum air putih, melakukan cuci hidung, tidak merokok dan menghindari asap rokok atau polusi udara"
       ]
     },
     {
