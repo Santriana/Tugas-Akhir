@@ -27,7 +27,21 @@
     {
       "tag": "diagnosis_rabies",
       "patterns": [
-        "aku tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas"
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas",
+        "tergigit hewan tercakar hewan demam menggigil kesemutan sakit kepala lemas hilang nafsu makan kram otot sesak nafas"
       ],
       "responses": [
         "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Rabies"
@@ -81,6 +95,9 @@
         "Bagaimana cara mengatasi rabies pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena rabies",
         "apa yang harus dilakukan saat terkena rabies?",
+        "kalo aku terkena rabies aku harus apa",
+        "pengobatan rabies",
+        "cara menyembuhkan rabies",
         "aku terkena rabies harus ngapain nih"
       ],
       "responses": [
@@ -90,6 +107,21 @@
     {
       "tag": "diagnosis_DBD",
       "patterns": [
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
+        "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit",
         "aku demam mimisan sakit kepala hebat nyeri di bagian belakang mata sakit otot dan sendi hilang nafsu makan lemas mual dan muntah timbul ruam kulit"
       ],
       "responses": [
@@ -144,6 +176,9 @@
         "Bagaimana cara mengatasi DBD pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena DBD",
         "apa yang harus dilakukan saat terkena DBD?",
+        "kalo aku terkena DBD aku harus apa",
+        "pengobatan DBD",
+        "cara menyembuhkan DBD",
         "aku terkena DBD harus ngapain nih"
       ],
       "responses": [
@@ -153,6 +188,21 @@
     {
       "tag": "diagnosis_cacar_air",
       "patterns": [
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
+        "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan",
         "aku bentol kemerahan di wajah dada atau punggung trus demam sakit kepala sakit tenggorokan lemas hilang nafsu makan"
       ],
       "responses": [
@@ -207,6 +257,9 @@
         "Bagaimana cara mengatasi cacar air pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena cacar air",
         "apa yang harus dilakukan saat terkena cacar air?",
+        "kalo aku terkena cacar air aku harus apa",
+        "pengobatan cacar air",
+        "cara menyembuhkan cacar air",
         "aku terkena cacar air harus ngapain nih"
       ],
       "responses": [
@@ -216,6 +269,21 @@
     {
       "tag": "diagnosis_campak",
       "patterns": [
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
+        "aku ruam demam sakit tenggorokan lemas hidung tersumbat",
         "aku ruam demam sakit tenggorokan lemas hidung tersumbat"
       ],
       "responses": [
@@ -270,6 +338,9 @@
         "Bagaimana cara mengatasi campak pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena campak",
         "apa yang harus dilakukan saat terkena campak?",
+        "kalo aku terkena campak aku harus apa",
+        "pengobatan campak",
+        "cara menyembuhkan campak",
         "aku terkena campak harus ngapain nih"
       ],
       "responses": [
@@ -279,6 +350,21 @@
     {
       "tag": "diagnosis_hepatitis_A",
       "patterns": [
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
+        "sebagian tubuh aku berwarna kuning demam lemas dan mual",
         "sebagian tubuh aku berwarna kuning demam lemas dan mual"
       ],
       "responses": [
@@ -333,6 +419,9 @@
         "Bagaimana cara mengatasi hepatitis A pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hepatitis A",
         "apa yang harus dilakukan saat terkena hepatitis A?",
+        "kalo aku terkena hepatitis A aku harus apa",
+        "pengobatan hepatitis A",
+        "cara menyembuhkan hepatitis A",
         "aku terkena hepatitis A harus ngapain nih"
       ],
       "responses": [
@@ -342,7 +431,22 @@
     {
       "tag": "diagnosis_ebola",
       "patterns": [
-        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar "
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar",
+        "aku nyeri dada dan batuk demam diare darah berat badan turun drastis pendarahan di mulut hidung mata atau telinga memar"
       ],
       "responses": [
         "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit Ebola"
@@ -396,6 +500,9 @@
         "Bagaimana cara mengatasi ebola pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena ebola",
         "apa yang harus dilakukan saat terkena ebola?",
+        "kalo aku terkena ebola aku harus apa",
+        "pengobatan ebola",
+        "cara menyembuhkan ebola",
         "aku terkena ebola harus ngapain nih"
       ],
       "responses": [
@@ -405,6 +512,21 @@
     {
       "tag": "diagnosis_polio",
       "patterns": [
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
+        "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah",
         "aku nyeri dan mati rasa di bagian lengan atau tungkai demam sakit kepala otot terasa lemah"
       ],
       "responses": [
@@ -459,6 +581,9 @@
         "Bagaimana cara mengatasi polio pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena polio",
         "apa yang harus dilakukan saat terkena polio?",
+        "kalo aku terkena polio aku harus apa",
+        "pengobatan polio",
+        "cara menyembuhkan polio",
         "aku terkena polio harus ngapain nih"
       ],
       "responses": [
@@ -468,6 +593,21 @@
     {
       "tag": "diagnosis_gondongan",
       "patterns": [
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
+        "pipi aku bengkak nyeri saat mengunya atau menelan makanan",
         "pipi aku bengkak nyeri saat mengunya atau menelan makanan"
       ],
       "responses": [
@@ -522,6 +662,9 @@
         "Bagaimana cara mengatasi gondongan pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena gondongan",
         "apa yang harus dilakukan saat terkena gondongan?",
+        "kalo aku terkena gondongan aku harus apa",
+        "pengobatan gondongan",
+        "cara menyembuhkan gondongan",
         "aku terkena gondongan harus ngapain nih"
       ],
       "responses": [
@@ -531,6 +674,21 @@
     {
       "tag": "diagnosis_flusingapura",
       "patterns": [
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
+        "aku demam muncul sariawan ruam dan lepuh",
         "aku demam muncul sariawan ruam dan lepuh"
       ],
       "responses": [
@@ -585,6 +743,9 @@
         "Bagaimana cara mengatasi flu singapura pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena flu singapura",
         "apa yang harus dilakukan saat terkena flu singapura?",
+        "kalo aku terkena cacar air aku harus apa",
+        "pengobatan flu singapura",
+        "cara menyembuhkan flu singapura",
         "aku terkena flu singapura harus ngapain nih"
       ],
       "responses": [
@@ -594,6 +755,21 @@
     {
       "tag": "diagnosis_demamkelenjar",
       "patterns": [
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
+        "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman",
         "aku bengkak di kelenjar getah bening timbul bintik merah di bagian langit - langit mulut, perut tidak nyaman"
       ],
       "responses": [
@@ -648,6 +824,9 @@
         "Bagaimana cara mengatasi demam kelenjar pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena demam kelenjar",
         "apa yang harus dilakukan saat terkena demam kelenjar?",
+        "kalo aku terkena cacar air aku harus apa",
+        "pengobatan demam kelenjar",
+        "cara menyembuhkan demam kelenjar",
         "aku terkena demam kelenjar harus ngapain nih"
       ],
       "responses": [
@@ -657,6 +836,21 @@
     {
       "tag": "diagnosis_herpes",
       "patterns": [
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
+        "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar",
         "aku mengalami ruam lepuh kecil berisi cairan, nyeri gatal rasa terbakar dan tertusuk di bibir, luka lepuh di bibir, pembengkakan pada kulit kelamin atau area di sekitarnya yang terasa gatal, nyeri, dan disertai sensasi terbakar"
       ],
       "responses": [
@@ -711,6 +905,9 @@
         "Bagaimana cara mengatasi herpes pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena herpes",
         "apa yang harus dilakukan saat terkena herpes?",
+        "kalo aku terkena herpes aku harus apa",
+        "pengobatan herpes",
+        "cara menyembuhkan herpes",
         "aku terkena herpes harus ngapain nih"
       ],
       "responses": [
@@ -720,6 +917,21 @@
     {
       "tag": "diagnosis_cacarmonyet",
       "patterns": [
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
+        "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan",
         "aku mengalami ruam kemudian bintil bernanah di kulit di leher, ketiak, atau selangkangan"
       ],
       "responses": [
@@ -774,6 +986,9 @@
         "Bagaimana cara mengatasi cacar monyet pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena cacar monyet",
         "apa yang harus dilakukan saat terkena cacar monyet?",
+        "kalo aku terkena cacar monyet aku harus apa",
+        "pengobatan cacar monyet",
+        "cara menyembuhkan cacar monyet",
         "aku terkena cacar monyet harus ngapain nih"
       ],
       "responses": [
@@ -783,6 +998,21 @@
     {
       "tag": "diagnosis_SARS",
       "patterns": [
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
+        "aku demam lebih dari 38 derajat, batuk, sesak napas, mual",
         "aku demam lebih dari 38 derajat, batuk, sesak napas, mual"
       ],
       "responses": [
@@ -837,6 +1067,9 @@
         "Bagaimana cara mengatasi SARS pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena SARS",
         "apa yang harus dilakukan saat terkena SARS?",
+        "kalo aku terkena SARS aku harus apa",
+        "pengobatan SARS",
+        "cara menyembuhkan SARS",
         "aku terkena SARS harus ngapain nih"
       ],
       "responses": [
@@ -846,6 +1079,21 @@
     {
       "tag": "diagnosis_hepatitis_E",
       "patterns": [
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
+        "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah",
         "Kulit dan bagian putih mata menguning (jaundice) Urine berwarna gelap Tinja berwarna pucat Demam ringan Ruam kulit Nyeri otot Mual dan muntah Nafsu makan menurun Sakit perut bagian atas Hati membengkak Tubuh terasa sangat lelah"
       ],
       "responses": [
@@ -900,6 +1148,9 @@
         "Bagaimana cara mengatasi hepatitis E pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hepatitis E",
         "apa yang harus dilakukan saat terkena hepatitis E?",
+        "kalo aku terkena hepatitis E aku harus apa",
+        "pengobatan hepatitis E",
+        "cara menyembuhkan hepatitis E",
         "aku terkena hepatitis E harus ngapain nih"
       ],
       "responses": [
@@ -909,6 +1160,21 @@
     {
       "tag": "diagnosis_radang_otak",
       "patterns": [
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
+        "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara",
         "Demam tinggi disertai dengan penurunan kesadaran yang cepat, Leher terasa kaku, Gangguan penglihatan, Kejang, Kesulitan bicara"
       ],
       "responses": [
@@ -963,6 +1229,9 @@
         "Bagaimana cara mengatasi radang otak pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena radang otak",
         "apa yang harus dilakukan saat terkena radang otak?",
+        "kalo aku terkena radang otak aku harus apa",
+        "pengobatan radang otak",
+        "cara menyembuhkan radang otak",
         "aku terkena radang otak harus ngapain nih"
       ],
       "responses": [
@@ -972,6 +1241,21 @@
     {
       "tag": "diagnosis_chikungunya",
       "patterns": [
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
+        "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi",
         "aku ruam kemerahan, demam hingga 39 derajat, nyeri tulang, nyeri otot dan sendi"
       ],
       "responses": [
@@ -1026,6 +1310,9 @@
         "Bagaimana cara mengatasi chikungunya pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena chikungunya",
         "apa yang harus dilakukan saat terkena chikungunya?",
+        "kalo aku terkena chikungunya aku harus apa",
+        "pengobatan chikungunya",
+        "cara menyembuhkan chikungunya",
         "aku terkena chikungunya harus ngapain nih"
       ],
       "responses": [
@@ -1035,6 +1322,21 @@
     {
       "tag": "diagnosis_hiv_aids",
       "patterns": [
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
+        "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah",
         "Ada borok atau luka bernanah di alat kelamin, Pembengkakan kelenjar getah bening, Sakit tenggorokan dan sariawan, diare kronis, badan mudah lelah, Berat badan turun tanpa diketahui sebabnya, Bercak putih di lidah, mulut, kelamin, dan anus, Bintik ungu di kulit, Mudah memar atau berdarah"
       ],
       "responses": [
@@ -1089,6 +1391,9 @@
         "Bagaimana cara mengatasi hiv aids pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hiv aids",
         "apa yang harus dilakukan saat terkena hiv aids?",
+        "kalo aku terkena hiv aids aku harus apa",
+        "pengobatan hiv aids",
+        "cara menyembuhkan hiv aids",
         "aku terkena hiv aids harus ngapain nih"
       ],
       "responses": [
@@ -1098,7 +1403,22 @@
     {
       "tag": "diagnosis_hepatitis_b",
       "patterns": [
-        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati."
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati",
+        "Perut membuncit berisi cairan dan bengkak di kaki, Kulit dan bagian putih mata berwarna kuning, Rasa tidak nyaman di area sekitar hati"
       ],
       "responses": [
         "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit hepatitis b"
@@ -1152,6 +1472,9 @@
         "Bagaimana cara mengatasi hepatitis b pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hepatitis b",
         "apa yang harus dilakukan saat terkena hepatitis b?",
+        "kalo aku terkena hepatitis b aku harus apa",
+        "pengobatan hepatitis b",
+        "cara menyembuhkan hepatitis b",
         "aku terkena hepatitis b harus ngapain nih"
       ],
       "responses": [
@@ -1161,6 +1484,21 @@
     {
       "tag": "diagnosis_influenza",
       "patterns": [
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
+        "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam",
         "hidung tersumbat, batuk, pilek, bersin - bersin, sakit tenggorokan, mengigil, demam"
       ],
       "responses": [
@@ -1215,6 +1553,9 @@
         "Bagaimana cara mengatasi influenza pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena influenza",
         "apa yang harus dilakukan saat terkena influenza?",
+        "kalo aku terkena influenza aku harus apa",
+        "pengobatan influenza",
+        "cara menyembuhkan influenza",
         "aku terkena influenza harus ngapain nih"
       ],
       "responses": [
@@ -1224,6 +1565,21 @@
     {
       "tag": "diagnosis_herpes_zoster",
       "patterns": [
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
+        "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam",
         "Bintil muncul seperti cacar air di salah satu sisi tubuh, bisa kanan atau kiri, Bintil timbul di area wajah, mata, mulut, dan telinga, Jaringan kulit di sekitar bintil menjadi bengkak, mata terasa terbakar dan nyeri berdenyut, mata merah dan meradang, kelopak mata membengkak, penglihatan kabur, demam"
       ],
       "responses": [
@@ -1278,6 +1634,9 @@
         "Bagaimana cara mengatasi herpes zoster pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena herpes zoster",
         "apa yang harus dilakukan saat terkena herpes zoster?",
+        "kalo aku terkena herpes zoster aku harus apa",
+        "pengobatan herpes zoster",
+        "cara menyembuhkan herpes zoster",
         "aku terkena herpes zoster harus ngapain nih"
       ],
       "responses": [
@@ -1287,7 +1646,22 @@
     {
       "tag": "diagnosis_hpv",
       "patterns": [
-        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal."
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal",
+        "Kutil di bahu, lengan, dan jari tangan  berbentuk benjolan yang terasa kasar dan dapat terasa sakit serta rentan mengalami perdarahan. Kutil di telapak kaki, Kutil di daerah wajah memiliki permukaan yang datar, Kutil kelamin berbentuk seperti kembang kol dan menimbulkan rasa gatal"
       ],
       "responses": [
         "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit HPV"
@@ -1341,6 +1715,9 @@
         "Bagaimana cara mengatasi hpv pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hpv",
         "apa yang harus dilakukan saat terkena hpv?",
+        "kalo aku terkena hpv aku harus apa",
+        "pengobatan hpv",
+        "cara menyembuhkan hpv",
         "aku terkena hpv harus ngapain nih"
       ],
       "responses": [
@@ -1350,6 +1727,21 @@
     {
       "tag": "diagnosis_rubella",
       "patterns": [
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
+        "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening",
         "ruam merah di wajah, demam, mata merah, muncul benjolan di sekitar telinga dan leber akibat pembengkakan kelenjar getah bening"
       ],
       "responses": [
@@ -1404,6 +1796,9 @@
         "Bagaimana cara mengatasi rubella pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena rubella",
         "apa yang harus dilakukan saat terkena rubella?",
+        "kalo aku terkena rubella aku harus apa",
+        "pengobatan rubella",
+        "cara menyembuhkan rubella",
         "aku terkena rubella harus ngapain nih"
       ],
       "responses": [
@@ -1413,6 +1808,21 @@
     {
       "tag": "diagnosis_flu_burung",
       "patterns": [
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
+        "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk",
         "hidung berair atau tersumbat, sesak napas, gusi berdarah, mimisan, demam, mata merah berair, batuk"
       ],
       "responses": [
@@ -1467,6 +1877,9 @@
         "Bagaimana cara mengatasi flu burung pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena flu burung",
         "apa yang harus dilakukan saat terkena flu burung?",
+        "kalo aku terkena flu burung aku harus apa",
+        "pengobatan flu burung",
+        "cara menyembuhkan flu burung",
         "aku terkena flu burung harus ngapain nih"
       ],
       "responses": [
@@ -1476,6 +1889,21 @@
     {
       "tag": "diagnosis_virus_zika",
       "patterns": [
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
+        "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot",
         "peradangan kelopak mata, tubuh mudah lelah, demam, ruam kulit, nyeri otot"
       ],
       "responses": [
@@ -1530,6 +1958,9 @@
         "Bagaimana cara mengatasi virus zika pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena virus zika",
         "apa yang harus dilakukan saat terkena virus zika?",
+        "kalo aku terkena virus zika aku harus apa",
+        "pengobatan virus zika",
+        "cara menyembuhkan virus zika",
         "aku terkena virus zika harus ngapain nih"
       ],
       "responses": [
@@ -1539,6 +1970,21 @@
     {
       "tag": "diagnosis_PTKM",
       "patterns": [
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
+        "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam",
         "tidak enak badan dan lelah, radang tenggorokan, luka lepuh di lidah, gusi, dan pipi bagian dalam, demam"
       ],
       "responses": [
@@ -1593,6 +2039,9 @@
         "Bagaimana cara mengatasi penyakit tangan kaki dan mulut pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena penyakit tangan kaki dan mulut",
         "apa yang harus dilakukan saat terkena penyakit tangan kaki dan mulut?",
+        "kalo aku terkena penyakit tangan kaki dan mulut aku harus apa",
+        "pengobatan penyakit tangan kaki dan mulut",
+        "cara menyembuhkan penyakit tangan kaki dan mulut",
         "aku terkena penyakit tangan kaki dan mulut harus ngapain nih"
       ],
       "responses": [
@@ -1602,6 +2051,21 @@
     {
       "tag": "diagnosis_hepatitis_d",
       "patterns": [
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
+        "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap",
         "feses berwarna pucat, kelelahan yang tidak diketahui sebabnya, mual dan muntah, kulit dan putih mata menguning, urine berwarna lebih gelap"
       ],
       "responses": [
@@ -1656,6 +2120,9 @@
         "Bagaimana cara mengatasi hepatitis d pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hepatitis d",
         "apa yang harus dilakukan saat terkena hepatitis d?",
+        "kalo aku terkena hepatitis d aku harus apa",
+        "pengobatan hepatitis d",
+        "cara menyembuhkan hepatitis d",
         "aku terkena hepatitis d harus ngapain nih"
       ],
       "responses": [
@@ -1665,6 +2132,21 @@
     {
       "tag": "diagnosis_COVID-19",
       "patterns": [
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
+        "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek",
         "batuk kering, demam, sesak napas, hilangnya kemampuan mengecap rasa, hilangnya kemampuan mencium bau, demam, pilek"
       ],
       "responses": [
@@ -1719,6 +2201,9 @@
         "Bagaimana cara mengatasi COVID 19 pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena COVID 19",
         "apa yang harus dilakukan saat terkena COVID 19?",
+        "kalo aku terkena COVID 19 aku harus apa",
+        "pengobatan COVID 19",
+        "cara menyembuhkan COVID 19",
         "aku terkena COVID 19 harus ngapain nih"
       ],
       "responses": [
@@ -1728,6 +2213,21 @@
     {
       "tag": "diagnosis_hantavirus",
       "patterns": [
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
+        "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah",
         "meriang dan tidak enak badan, sesak napas, nyeri dada, batuk, pandangan kabur, kemerahan di wajah"
       ],
       "responses": [
@@ -1782,6 +2282,9 @@
         "Bagaimana cara mengatasi hantavirus pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena hantavirus",
         "apa yang harus dilakukan saat terkena hantavirus?",
+        "kalo aku terkena hantavirus aku harus apa",
+        "pengobatan hantavirus",
+        "cara menyembuhkan hantavirus",
         "aku terkena hantavirus harus ngapain nih"
       ],
       "responses": [
@@ -1791,7 +2294,22 @@
     {
       "tag": "diagnosis_herpes_bibir",
       "patterns": [
-        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri "
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri",
+        "mengalami luka lepuh di bibir yang banyak berisi cairan berwarna kemerahan, kering dan berkerak, sariawan di dalam mulit, rasa terbakar, kesemutan, nyeri"
       ],
       "responses": [
         "Berdasarkan gejala tersebut kemungkinan besar anda terkena herpes bibir"
@@ -1845,6 +2363,9 @@
         "Bagaimana cara mengatasi herpes bibir pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena herpes bibir",
         "apa yang harus dilakukan saat terkena herpes bibir?",
+        "kalo aku terkena herpes bibir aku harus apa",
+        "pengobatan herpes bibir",
+        "cara menyembuhkan herpes bibir",
         "aku terkena herpes bibir harus ngapain nih"
       ],
       "responses": [
@@ -1854,6 +2375,21 @@
     {
       "tag": "diagnosis_RSV",
       "patterns": [
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
+        "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru",
         "batuk kering, hidung tersumbat atau berair, napas berbunyi, sulit bernapas atau napas cepat, bibir atau kulit membiru"
       ],
       "responses": [
@@ -1908,6 +2444,9 @@
         "Bagaimana cara mengatasi RSV pada tahap awal",
         "Apa langkah-langkah yang harus diambil saat seseorang terkena RSV",
         "apa yang harus dilakukan saat terkena RSV?",
+        "kalo aku terkena RSV aku harus apa",
+        "pengobatan RSV",
+        "cara menyembuhkan RSV",
         "aku terkena RSV harus ngapain nih"
       ],
       "responses": [
