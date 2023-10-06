@@ -260,7 +260,7 @@
         "Apakah ada cara alami yang dapat membantu mengurangi gejala chikungunya?"
       ],
       "responses": [
-        "Chikungunya tidak memerlukan pengobatan khusus, karena akan sembuh dengan sendirinya. Dalam banyak kasus, gejala penyakit ini akan mereda dalam 1–2 minggu. Pengobatan chikungunya hanya untuk meredakan gejala penyakit ini dengan cara meminum obat antiradang atau obat flu tulang seperti paracetamol, ibuprofen, atau naproxen dan juga perlu beristirahat cukup"
+        "Chikungunya tidak memerlukan pengobatan khusus, karena akan sembuh dengan sendirinya. Dalam banyak kasus, gejala penyakit ini akan mereda dalam 1 sampai 2 minggu. Pengobatan chikungunya hanya untuk meredakan gejala penyakit ini dengan cara meminum obat antiradang atau obat flu tulang seperti paracetamol, ibuprofen, atau naproxen dan juga perlu beristirahat cukup"
       ]
     },
     {
@@ -299,11 +299,11 @@
         "Nyeri dada yang semakin parah saat batuk."
       ],
       "responses": [
-        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit tbc"
+        "Berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit tuberkulosis"
       ]
     },
     {
-      "tag": "tentang_tbc",
+      "tag": "tentang_tuberkulosis",
       "patterns": [
         "apa itu tuberkulosis",
         "Apa definisi dari penyakit tuberkulosis?",
@@ -336,7 +336,7 @@
         "Bisakah Anda menjelaskan peran terapi pengobatan dalam penanganan TB?"
       ],
       "responses": [
-        "Tuberkulosis (TBC)  atau TB adalah penyakit menular akibat infeksi bakteri. TBC umumnya menyerang paru-paru, tetapi juga dapat menyerang organ tubuh lain, seperti ginjal, tulang belakang, dan otak. Penularan tuberkulosis (TBC) terjadi ketika seseorang tidak sengaja menghirup percikan ludah (droplet) saat seseorang yang terinfeksi TBC bersin atau batuk. Oleh sebab itu, risiko penularan penyakit ini lebih tinggi pada orang yang tinggal serumah dengan penderita TBC."
+        "Tuberkulosis (TBC) atau TB adalah penyakit menular akibat infeksi bakteri. TBC umumnya menyerang paru-paru, tetapi juga dapat menyerang organ tubuh lain, seperti ginjal, tulang belakang, dan otak. Penularan tuberkulosis (TBC) terjadi ketika seseorang tidak sengaja menghirup percikan ludah (droplet) saat seseorang yang terinfeksi TBC bersin atau batuk. Oleh sebab itu, risiko penularan penyakit ini lebih tinggi pada orang yang tinggal serumah dengan penderita TBC."
       ]
     },
     {
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "tag": "tindakan_gastroenteritis",
+      "tag": "tindakan_diare",
       "patterns": [
         "pertolongan pertama diare",
         "Apa yang harus dilakukan sebagai pertolongan pertama pada kasus diare?",
@@ -910,7 +910,6 @@
         "Cara pengobatan yang direkomendasikan untuk kusta",
         "Pertolongan pertama yang diperlukan saat kusta menimbulkan gejala yang serius",
         "Langkah-langkah pengobatan yang harus segera dilakukan untuk kusta"
-
       ],
       "responses": [
         "Metode utama untuk mengobati kusta atau lepra adalah dengan obat antibiotik. Penderita kusta akan diberi kombinasi beberapa jenis antibiotik selama 1 sampai 2 tahun. Contoh antibiotik yang digunakan untuk pengobatan kusta yaitu rifampicin, dapsone, clofazimine, minocycline, ofloxacin"
@@ -1215,7 +1214,7 @@
         "Apa yang perlu diketahui tentang vektor penyakit leptospirosis?"
       ],
       "responses": [
-        "Leptospirosis adalah penyakit yang disebabkan oleh bakteri Leptospira. Bakteri ini dapat menyebar melalui urine atau darah hewan yang terinfeksi. Beberapa hewan yang tergolong sebagai perantara penyebaran leptospirosis adalah tikus, sapi, anjing, dan babi. "
+        "Leptospirosis adalah penyakit yang disebabkan oleh bakteri Leptospira. Bakteri ini dapat menyebar melalui urine atau darah hewan yang terinfeksi. Beberapa hewan yang tergolong sebagai perantara penyebaran leptospirosis adalah tikus, sapi, anjing, dan babi"
       ]
     },
     {
