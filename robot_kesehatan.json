@@ -1,57 +1,115 @@
 {
   "intents": [
     {
-      "tag": "greeting",
-      "patterns": [
-        "hallo",
-        "hai",
-        "halo",
-        "hei",
-        "hi",
-        "hy",
-        "pagi",
-        "morning",
-        "siang",
-        "afternoon",
-        "sore",
-        "malam",
-        "bro",
-        "sis",
-        "kawan"
-      ],
-      "responses": [
-        "Hai! Dokbot di sini. Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!",
-        "Halo! Saya Dokbot, salam kenal ya! Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!"
-      ]
-    },
+        "tag": "greeting",
+        "patterns": [
+            "hallo",
+            "hai",
+            "halo",
+            "hei",
+            "hi",
+            "hy",
+            "pagi",
+            "morning",
+            "siang",
+            "afternoon",
+            "sore",
+            "malam",
+            "bro",
+            "sis",
+            "kawan"
+        ],
+        "responses": [
+            "Hai! Dokbot di sini. Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!",
+            "Halo! Saya Dokbot, salam kenal ya! Kamu sedang sakit ya? sebutkan gejala apa saja yang sedang kamu alami!"
+        ]
+      },
+      {
+        "tag": "diagnosis_DBD",
+        "patterns": [
+            "Lemas, Sakit kepala hebat, Nyeri di bagian belakang mata, Sakit otot dan sendi, Hilang nafsu makan, Mual dan muntah, Ruam kemerahan yang timbul atau tidak timbul, Gusi berdarah atau mimisan, Buang air besar berdarah, muntah berdarah",
+            "naiknya suhu tubuh secara mendadak, demam berlangsung selama 3 hari, demam 39 sampai 40 derajat celcius",
+            "Lemas dan sakit kepala hebat",
+            "Lemas dan sakit kepala hebat.",
+            "Nyeri di bagian belakang mata dan lemas.",
+            "Sakit otot dan sendi yang parah.",
+            "Hilang nafsu makan dan mual.",
+            "Mual dan muntah yang terus-menerus.",
+            "Ruam kemerahan pada kulit.",
+            "Gusi berdarah dan sakit kepala hebat.",
+            "Buang air besar berdarah dan nyeri di mata.",
+            "Muntah berdarah dan demam mendadak.",
+            "Demam 39 derajat celcius dan sakit otot.",
+            "Demam berlangsung selama 3 hari dan lemas.",
+            "Gusi berdarah dan lemas.",
+            "Mual dan nyeri di mata.",
+            "Buang air besar berdarah dan sakit kepala.",
+            "Ruam kemerahan dan muntah berdarah.",
+            "Demam 40 derajat celcius dan nyeri di mata.",
+            "Nyeri di bagian belakang mata dan muntah.",
+            "Sakit otot dan sendi yang parah.",
+            "Hilang nafsu makan dan demam mendadak.",
+            "Lemas dan ruam kemerahan.",
+            "Mual dan demam 39 derajat celcius.",
+            "Buang air besar berdarah dan sakit otot.",
+            "Gusi berdarah dan muntah berdarah.",
+            "Nyeri di bagian belakang mata dan ruam kemerahan.",
+            "Sakit kepala hebat dan lemas.",
+            "Demam berlangsung selama 3 hari dan mual.",
+            "Demam 40 derajat celcius dan sakit otot.",
+            "Muntah dan nyeri di mata.",
+            "Buang air besar berdarah dan demam mendadak.",
+            "Nyeri di bagian belakang mata membuat saya merasa tidak nyaman.",
+            "Saya mengalami sakit otot dan sendi di beberapa bagian tubuh.",
+            "Hilangnya nafsu makan adalah salah satu gejala yang saya alami.",
+            "Saya merasa mual dan muntah sepanjang hari.",
+            "Saya pernah mengalami ruam kemerahan beberapa minggu yang lalu.",
+            "Beberapa kali saya mengalami gusi berdarah atau mimisan.",
+            "Saya sangat khawatir ketika mengalami buang air besar berdarah.",
+            "Saya pernah mengalami muntah berdarah yang cukup serius.",
+            "Suhu tubuh saya naik secara mendadak beberapa hari yang lalu.",
+            "Demam yang berlangsung selama 3 hari membuat saya merasa tidak enak badan.",
+            "Saya mengalami demam dengan suhu mencapai 39 hingga 40 derajat Celsius.",
+            "Lemas dan sakit kepala hebat adalah gejala yang sangat mengganggu.",
+            "Nyeri di bagian belakang mata membuat saya sulit berkonsentrasi.",
+            "Sakit otot dan sendi ini membuat aktivitas sehari-hari sulit dilakukan.",
+            "Hilangnya nafsu makan membuat saya khawatir tentang kesehatan saya.",
+            "Mual dan muntah terus-menerus membuat saya tidak nyaman.",
+            "Saya pernah mengalami ruam kemerahan yang muncul dan menghilang.",
+            "Gusi berdarah atau mimisan seringkali membuat saya cemas."
+        ],
+        "responses": [
+            "berdasarkan gejala tersebut kemungkinan besar anda terkena penyakit demam berdarah"
+        ]
+      },
     {
       "tag": "goodbye",
       "patterns": [
-        "Dah",
-        "Dadah",
-        "Bye",
-        "Byee",
-        "Good bye",
-        "Selamat tinggal",
-        "Sampai jumpa",
-        "Bai",
-        "See you"
+          "Dah",
+          "Dadah",
+          "Bye",
+          "Byee",
+          "Good bye",
+          "Selamat tinggal",
+          "Sampai jumpa",
+          "Bai",
+          "See you"
       ],
       "responses": [
-        "Good bye!"
+          "Good bye!"
       ]
     },
     {
       "tag": "terimakasih",
       "patterns": [
-        "Thanks",
-        "Thank you",
-        "Terima kasih",
-        "Makasih",
-        "Terima kasih banyak"
+          "Thanks",
+          "Thank you",
+          "Terima kasih",
+          "Makasih",
+          "Terima kasih banyak"
       ],
       "responses": [
-        "Dengan senang hati"
+          "Dengan senang hati"
       ]
     }
   ]
